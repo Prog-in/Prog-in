@@ -1,35 +1,16 @@
-# 💜 Olá, sou o <strong>Prog-in!</strong>
+# Olá, sou o <strong>Prog-in!</strong>
 
 > Sou um estudante de Ciências da Computação na UFSC. 
-
-<div>
-  <details>
-    <summary>🧑 Mais sobre mim</summary>
-
-  - 🔭 Ainda me decidindo para qual ramo seguir...
-
-  - 🌱 Aprendendo sobre tudo!
-
-  - 🤝 Procuro contribuir com outros projetos.
-
-  </details>
-</div>
 
 ## 🚀 Skills
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" weight="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" weight="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" weight="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" weight="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</div>
-
-## 💻 Softwares
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
 </div>
 
 ## ⭐ Minha conta GitHub
